@@ -1,0 +1,1 @@
+GET     /                           controllers.PaymentController.get(country: String)

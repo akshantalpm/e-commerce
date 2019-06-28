@@ -1,0 +1,1 @@
+GET     /                           controllers.SearchController.search(query: String, country: String)
